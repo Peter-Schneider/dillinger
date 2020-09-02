@@ -45,7 +45,7 @@
     "dbox": "0.6.3",
     "ejs": ">=1.0.0",
     "express": ">=3.0.0rc3 <4.0.0",
-    "googleapis": "0.2.12-alpha",
+    "googleapis": "59.0.0",
     "highlight.js": "^8.3.0",
     "jquery": "^2.1.1",
     "keymaster": "^1.6.2",
